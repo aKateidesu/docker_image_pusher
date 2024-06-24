@@ -1,2 +1,4 @@
 nginx
 jeessy/ddns-go
+jasminexzzz/blossom:latest
+mysql:8.0.31
