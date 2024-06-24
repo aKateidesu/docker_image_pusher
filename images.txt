@@ -6,3 +6,4 @@ b3log/siyuan
 ghcr.io/toeverything/affine-graphql
 redis
 postgres
+ghcr.io/toeverything/affine-graphql:stable
