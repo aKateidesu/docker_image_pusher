@@ -4,3 +4,4 @@ jasminexzzz/blossom:latest
 mysql:8.0.31
 jc21/nginx-proxy-manager:latest
 b3log/siyuan
+ghcr.io/toeverything/affine-graphql
