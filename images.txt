@@ -1,2 +1,3 @@
 gitlab/gitlab-runner
 maven:latest
+node:10-alpine
