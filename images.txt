@@ -8,3 +8,4 @@ redis
 postgres
 ghcr.io/toeverything/affine-graphql:stable
 gitlab/gitlab-ee
+gitlab/gitlab-runner
