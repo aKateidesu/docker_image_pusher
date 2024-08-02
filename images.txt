@@ -1,3 +1,12 @@
 gitlab/gitlab-runner
 maven:latest
 node:10-alpine
+postgres
+mysql
+httpd
+busybox
+nginx
+mariadb
+centos
+sonarqube:community
+bitnami/minio
