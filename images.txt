@@ -13,3 +13,4 @@ redmine
 nextcloud
 atlassian/jira-software
 atlassian/jira-software:8.16.1
+teddysun/xray
