@@ -1,1 +1,4 @@
 star7th/showdoc:latest
+jgraph/drawio
+ollama/ollama
+corentinth/it-tools
