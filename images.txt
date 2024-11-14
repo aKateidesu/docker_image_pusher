@@ -6,3 +6,4 @@ wojiushixiaobai/dataease
 yidadaa/chatgpt-next-web
 wcjiang/reference
 wojiushixiaobai/dataease
+metabase/metabase
