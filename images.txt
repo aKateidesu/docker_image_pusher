@@ -1,1 +1,3 @@
-wyland/webhook-v1.0
+webhooksite/webhook.site
+redis:alpine
+webhooksite/laravel-echo-server
