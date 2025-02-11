@@ -1,1 +1,2 @@
-elestio/glpi:10.0.16
+phpmyadmin
+mysql:8.0
