@@ -1,1 +1,1 @@
-busybox
+elestio/glpi:10.0.16
