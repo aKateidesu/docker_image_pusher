@@ -1,3 +1,1 @@
-webhooksite/webhook.site
-redis:alpine
-webhooksite/laravel-echo-server
+demisto/glpi
