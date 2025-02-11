@@ -1,2 +1,1 @@
-phpmyadmin
-mysql:8.0
+phoenixmedia/nginx-php:8.2
