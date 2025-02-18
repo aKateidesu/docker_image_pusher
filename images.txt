@@ -1,1 +1,1 @@
-Portainer
+portainer/portainer-ce
