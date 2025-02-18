@@ -1,1 +1,1 @@
-phoenixmedia/nginx-php:8.2
+Portainer
