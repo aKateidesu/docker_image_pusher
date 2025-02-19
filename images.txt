@@ -1,1 +1,6 @@
-portainer/portainer-ce
+elastic/elastic-agent
+elastic/elasticsearch
+elastic/filebeat
+elastic/logstash
+elastic/apm-server
+elastic/kibana
