@@ -1,1 +1,1 @@
-ocsinventory/ocsinventory-docker-image:2.12.3
+ttimasdf/cve-search:withdb
