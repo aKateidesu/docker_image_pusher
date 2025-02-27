@@ -1,3 +1,2 @@
-python:3.10.6-bullseye
-mongo:6.0
-redis:latest
+portainer-ce:lts
+mongodb/mongodb-community-server:latest
