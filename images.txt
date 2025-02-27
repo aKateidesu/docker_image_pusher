@@ -1,2 +1,2 @@
-portainer-ce:lts
+portainer/portainer-ce:lts
 mongodb/mongodb-community-server:latest
