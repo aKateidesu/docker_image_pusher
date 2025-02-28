@@ -1,2 +1,1 @@
-portainer/portainer-ce:lts
-mongodb/mongodb-community-server:latest
+mongo-express
