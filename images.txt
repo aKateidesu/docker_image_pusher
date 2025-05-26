@@ -1,2 +1,2 @@
 freshrss/freshrss
-mailcow/postfix
+mailcow/postfix:1.80
