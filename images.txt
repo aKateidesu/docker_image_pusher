@@ -1,1 +1,1 @@
-hitian/clash-dashboard
+centralx/clash
