@@ -1,1 +1,1 @@
-centralx/clash
+node:22.20-bullseye
