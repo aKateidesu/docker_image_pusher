@@ -1,1 +1,1 @@
-node:22.20-bullseye
+registry.redpesk.bzh/tux-evse/afb-iso15118:v0.1
