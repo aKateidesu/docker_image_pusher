@@ -1,1 +1,1 @@
-registry.redpesk.bzh/tux-evse/afb-iso15118:v0.1
+python:3.11-alpine
