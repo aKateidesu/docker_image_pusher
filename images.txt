@@ -1,3 +1,1 @@
-onlyoffice/documentserver
-onlyoffice/communityserver
-onlyoffice/mailserver
+mysql:5.7
