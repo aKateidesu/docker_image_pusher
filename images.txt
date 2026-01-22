@@ -1,2 +1,3 @@
 aquasec/trivy:canary
 jgraph/drawio
+embeddedanalyzer/emba
