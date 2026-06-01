@@ -1,1 +1,1 @@
-plantuml/plantuml-server:jetty
+centralx/clash
