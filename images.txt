@@ -1,1 +1,3 @@
-centralx/clash
+gitlab/gitlab-ce
+gitlab/gitlab-runner
+linuxserver/obsidian
